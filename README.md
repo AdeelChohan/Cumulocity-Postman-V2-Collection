@@ -1,7 +1,7 @@
 # Cumulocity Postman Collection v2
 Cumulocity Postman collection compliant with the latest V2 format [JSON](https://github.com/AdeelChohan/cumulocity-postmanv2/blob/main/V2-%20Cumulocity_API.postman_collection.json)
 
-The source of the API is the official Cumulocity Postman collection
+The source of the API is the previously supported V1 Cumulocity Postman collection. v1 collections are no longer supported by Postman and Software AG RnD no longer maintains them due to the switch to the OpenAPI specification. The collection may contain old endpoints that may no longer be supported on version 10.9. 
 
 `https://app.getpostman.com/run-collection/7c7d00719ab238097686`
 
@@ -12,7 +12,7 @@ The collection has been converted using the offical Postman Collection Transform
 ## Prerequisites
 
 - *Postman* The collection is for use by the Postman app. Postman is a utility that allows you to quickly test and use REST APIs. More information can be found at [getpostman.com](https://www.getpostman.com/).
-- *Cumulocity* To use our API, you must have a valid credentials. Reach out to Software AG support if you need access to it. 
+- *Cumulocity* - To use our API, you must have valid credentials. Reach out to Software AG support if you need access to it. 
 - *Tenant ID* - You can call `GET /tenant/currentTenant` with valid credentials. More information [here](http://cumulocity.com/api/#section/Authentication).
 
 The authorization header is formed as `Basic <Base64(<tenantID>/<c8yuser>:<password>)>`.  
