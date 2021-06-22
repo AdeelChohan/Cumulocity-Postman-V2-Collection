@@ -1,5 +1,5 @@
 # Cumulocity Postman Collection v2
-Cumulocity Postman collection compliant with the latest V2 format [JSON] (https://github.com/AdeelChohan/cumulocity-postmanv2/blob/main/V2-%20Cumulocity_API.postman_collection.json)
+Cumulocity Postman collection compliant with the latest V2 format [JSON](https://github.com/AdeelChohan/cumulocity-postmanv2/blob/main/V2-%20Cumulocity_API.postman_collection.json)
 
 The source of the API is the official Cumulocity Postman collection
 
@@ -36,7 +36,7 @@ Cumulocity IoT provides numerous online API examples. If you want to make use of
 
 ![alt text](https://cumulocity.com/guides/images/rest/postman.png)
 
-Import the APIs as a [V2 JSON] (https://github.com/AdeelChohan/cumulocity-postmanv2/blob/main/V2-%20Cumulocity_API.postman_collection.json) file.
+Import the APIs as a [V2 JSON](https://github.com/AdeelChohan/cumulocity-postmanv2/blob/main/V2-%20Cumulocity_API.postman_collection.json) file.
 
 Now, click the Collections tab on the top left of Postman. You should see a folder Cumulocity API with the examples. Open that folder and the subfolder Alarms, then click Get collection of alarms. This shows an example on how to get alarms from Cumulocity IoT.
 
