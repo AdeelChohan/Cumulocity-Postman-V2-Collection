@@ -1,7 +1,7 @@
 # Cumulocity Postman Collection v2
 Cumulocity Postman collection compliant with the latest V2 format [JSON](https://github.com/AdeelChohan/cumulocity-postmanv2/blob/main/V2-%20Cumulocity_API.postman_collection.json)
 
-The source of the API is the previously avaliable v1 Cumulocity Postman collection. v1 collections are no longer supported by Postman and Software AG RnD no longer maintains them due to the switch to the OpenAPI specification. The collection may contain old endpoints that may no longer be supported on version 10.9. 
+The source of the API is the previously avaliable v1 Cumulocity Postman collection. v1 collections are no longer supported by Postman and Software AG RnD no longer maintains them due to the switch to the OpenAPI specification. This collection may contain old endpoints that may no longer be supported on version 10.9. 
 
 The collection has been converted using the offical Postman Collection Transformer tool from V1 to V2
 
